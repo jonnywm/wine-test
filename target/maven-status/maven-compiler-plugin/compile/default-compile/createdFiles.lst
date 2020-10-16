@@ -1,0 +1,13 @@
+br\com\wine\test\utils\Mask.class
+br\com\wine\test\constants\Constants.class
+br\com\wine\test\model\Cidade$CidadeBuilder.class
+br\com\wine\test\model\Cep$CepBuilder.class
+br\com\wine\test\model\Cidade.class
+br\com\wine\test\repository\CidadeRepository.class
+br\com\wine\test\model\Cep.class
+br\com\wine\test\utils\IgnoreField.class
+br\com\wine\test\viacep\vo\ViaCEPVO.class
+br\com\wine\test\utils\IgnoreField$1.class
+br\com\wine\test\controller\CepController.class
+br\com\wine\test\Application.class
+br\com\wine\test\repository\CepRepository.class
